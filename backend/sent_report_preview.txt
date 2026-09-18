@@ -1,0 +1,52 @@
+To: nehalafirosh@gmail.com
+Subject: Your Dental Visit Summary - AuraDent AI
+
+Hello Marcus Vance,
+
+Hello Marcus, thank you for visiting us today! Dr. Sarah Lin, DDS reviewed your examination. We identified 10 focus area(s) to maintain your healthy smile.
+
+- Clinical finding on UR 3rd Molar (#1) [Routine]
+    What is happening: Our dental team evaluated this tooth.
+    Why it matters: Preventative care keeps your natural teeth healthy for life.
+    Recommended next step: Extracted wisdom tooth
+- Clinical finding on UL 3rd Molar (#16) [Routine]
+    What is happening: Our dental team evaluated this tooth.
+    Why it matters: Preventative care keeps your natural teeth healthy for life.
+    Recommended next step: Extracted wisdom tooth
+- Clinical finding on LL 3rd Molar (#17) [Routine]
+    What is happening: Our dental team evaluated this tooth.
+    Why it matters: Preventative care keeps your natural teeth healthy for life.
+    Recommended next step: Extracted wisdom tooth
+- Clinical finding on LR 3rd Molar (#32) [Routine]
+    What is happening: Our dental team evaluated this tooth.
+    Why it matters: Preventative care keeps your natural teeth healthy for life.
+    Recommended next step: Extracted wisdom tooth
+- Protective Crown for UL 1st Molar (#14) [Recommended Soon]
+    What is happening: This tooth requires full-coverage structural reinforcement to withstand daily chewing forces.
+    Why it matters: When a substantial portion of tooth structure is compromised, a crown prevents catastrophic fracture under bite pressure.
+    Recommended next step: Custom ceramic crown precision-matched to your natural bite and smile shade.
+- Clinical finding on LL 1st Molar (#19) [Routine]
+    What is happening: Our dental team evaluated this tooth.
+    Why it matters: Preventative care keeps your natural teeth healthy for life.
+    Recommended next step: MOD Amalgam placed 2018
+- Clinical finding on LR 1st Molar (#30) [Routine]
+    What is happening: Our dental team evaluated this tooth.
+    Why it matters: Preventative care keeps your natural teeth healthy for life.
+    Recommended next step: Occlusal composite 2023
+- Clinical finding on UR 1st Premolar (#5) [Routine]
+    What is happening: Our dental team evaluated this tooth.
+    Why it matters: Preventative care keeps your natural teeth healthy for life.
+    Recommended next step: Routine checkup at next periodic visit.
+- Protective Crown for UR Lateral Incisor (#7) [Recommended Soon]
+    What is happening: This tooth requires full-coverage structural reinforcement to withstand daily chewing forces.
+    Why it matters: When a substantial portion of tooth structure is compromised, a crown prevents catastrophic fracture under bite pressure.
+    Recommended next step: Custom ceramic crown precision-matched to your natural bite and smile shade.
+- Seam breakdown around existing filling on LR 2nd Premolar (#29) [Recommended Soon]
+    What is happening: Bacteria have penetrated the margin around an older filling on the top chewing surface.
+    Why it matters: Resealing this area prevents deeper decay from spreading beneath the existing restoration and compromising tooth structure.
+    Recommended next step: Refresh and replace the older filling with modern adhesive bonding.
+
+Exam date: September 18, 2026
+Dr. Sarah Lin, DDS
+
+Please contact your dental office with any questions about your care.
